@@ -9,7 +9,7 @@ This project is built using **HTML, CSS, and JavaScript (Vanilla JS)** and focus
 ## 🌐 Live Demo
 👉 (Add your GitHub Pages link here after deployment)
 
-https://your-username.github.io/careerbridge-pro/
+https://rashmijakhar05.github.io/careerbrigde-pro/
 
 ---
 
